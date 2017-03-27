@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body {
-	margin: 0;
+  margin: 0;
   background-image: url('images/BG.png');
   background-position: top left;
   max-width: 100%;
@@ -15,13 +15,13 @@ body {
 
 /* Element Styling */
 h1, h2{
-	font-family: 'Dancing Script', cursive;
-	font-weight: lighter;
-	text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight: lighter;
+  text-align: center;
   text-shadow: 2px 3px 8px #434C7C;
 }
 h1 {
-	font-size: 110px;
+  font-size: 110px;
   color: #501426;
 }
 h2 {
@@ -97,11 +97,11 @@ a.arrowLink {
   vertical-align: 15px;
 }
 .hash {
-	font-weight: normal;
-	text-align: left;
-	font-family: 'Raleway', sans-serif;
-	color: darkgray;
-	font-size: 25px;
+  font-weight: normal;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  color: darkgray;
+  font-size: 25px;
   vertical-align: -25px;
 }
 .icon {
@@ -517,7 +517,7 @@ a.arrowLink {
   }
   .storyTxt2 {
     width: 90%;
-    margin-top: 224%;
+    margin-top: 210%;
     margin-bottom: 0px;
     margin-left: 40%;
     float: none;
@@ -533,7 +533,7 @@ a.arrowLink {
     margin: 0px;
     margin-top: 300px;
     margin-right: -27%;
-    margin-bottom: 200%;
+    margin-bottom: 185%;
     text-align: center;
   }
   .storyTxt5 {

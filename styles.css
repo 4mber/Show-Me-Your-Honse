@@ -489,6 +489,7 @@ input[type=submit]:hover {
 }
 h2#right {
   font-size: 28px;
+  text-align: left;
 }
 h2#left {
   text-align: left;

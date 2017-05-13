@@ -1086,7 +1086,8 @@ h2#left {
     height: 64vh;
   }
   #two {
-    width: 102%
+    width: 102%;
+    height: 5100px;
   }
   /* Story Content */
   .storyTxt1 {

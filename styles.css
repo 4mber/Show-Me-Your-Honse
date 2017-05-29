@@ -914,7 +914,7 @@ h2#left {
     background-image: url('images/ourstorySMALL.png');
     background-size: cover;
     background-position: center 14px;
-    width: 101.5%;
+    width: 100%;
   }
   .storyArrow {
     display: none;
@@ -1086,7 +1086,7 @@ h2#left {
     height: 64vh;
   }
   #two {
-    width: 102%;
+    width: 100%;
     height: 5100px;
   }
   /* Story Content */

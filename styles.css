@@ -7,7 +7,7 @@
 }
 body {
 	margin: 0;
-  background-image: url('images/BG.png');
+  background-image: url('images/BG.jpg');
   background-position: top left;
   max-width: 100%;
 }
@@ -172,7 +172,7 @@ a.arrowLink {
 #two {
   padding-top: 150px;
   height: 4980px;
-  background-image: url('images/ourstoryBIG.png');
+  background-image: url('images/ourstoryBIG.jpg');
   -webkit-box-shadow: inset 0 25px 25px -18px black;
   -moz-box-shadow: inset 0 25px 25px -18px black;
   box-shadow: inset 0 25px 25px -18px black;
@@ -202,7 +202,7 @@ a.arrowLink {
       rgba(255, 255, 255, 0.9), 
       rgba(255, 255, 255, 0.9)
     ),
-    url('images/farms.png');
+    url('images/farms.jpg');
   height: 100vh;
   background-size: cover;
   background-attachment: fixed;
@@ -216,7 +216,7 @@ a.arrowLink {
       rgba(0, 0, 0, 0.73), 
       rgba(197, 190, 190, 0.22)
     ),
-    url('images/hills.png');
+    url('images/hills.jpg');
   height: 55vh;
   background-size: cover;
   background-attachment: fixed;
@@ -566,7 +566,7 @@ h2#left {
       rgba(33, 28, 28, 0.82), 
       rgba(29, 24, 24, 0.15)
     ),
-    url('images/roadsmall.png');
+    url('images/roadsmall.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -748,7 +748,7 @@ h2#left {
     font-size: 12px;
   }
   #two {
-    background-image: url('images/ourstoryMED.png');
+    background-image: url('images/ourstoryMED.jpg');
     background-size: cover;
     background-position: center;
   }
@@ -911,7 +911,7 @@ h2#left {
     font-size: 12px;
   }
   #two {
-    background-image: url('images/ourstorySMALL.png');
+    background-image: url('images/ourstorySMALL.jpg');
     background-size: cover;
     background-position: center 14px;
     width: 100%;

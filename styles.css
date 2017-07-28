@@ -176,7 +176,7 @@ a.arrowLink {
   -webkit-box-shadow: inset 0 25px 25px -18px black;
   -moz-box-shadow: inset 0 25px 25px -18px black;
   box-shadow: inset 0 25px 25px -18px black;
-}
+}	
 #ourStory {
   font-family: 'Dancing Script', cursive;
   font-weight: lighter;
@@ -296,14 +296,14 @@ a.arrowLink {
   font-size: 18px;
   color: white;
 }
-#respond {
+#respond, #rsvp-notes {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   padding-bottom: 25px;
   color: darkgray;
 }
 #rsvp {
-  height: 91vh;
+  height: 100vh;
 }
 #form-div {
   width: 60%;

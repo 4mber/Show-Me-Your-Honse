@@ -302,6 +302,9 @@ a.arrowLink {
   padding-bottom: 25px;
   color: darkgray;
 }
+#rsvp-notes {
+	font-size: 16px;
+}
 #rsvp {
   height: 110vh;
 }
